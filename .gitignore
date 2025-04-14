@@ -1,0 +1,44 @@
+# node_modules: dependências do projeto
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretórios de saída
+dist/
+build/
+out/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ambiente
+.env
+.env.test
+.env.local
+
+# VS Code settings
+.vscode/
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Coverage (caso use testes com cobertura)
+coverage/
+
+# Relatórios do Appium
+appium.log
+
+# arquivo apks
+app/ebacshop.apks
+app/ebacshop.keystore
+
+
+#allure
+allure-report/
+allure-results

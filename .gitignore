@@ -42,3 +42,6 @@ app/ebacshop.keystore
 #allure
 allure-report/
 allure-results
+
+#app
+app
